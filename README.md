@@ -13,5 +13,5 @@ The purpose of this is to test that I can submit a respository to GitHub and cre
 * Git / GitHub
 
 ## Helpful Resources
-* [Guide to Printing in Python](https://www.datacamp.com/community/tutorials/python-print-function)
+* [A Guide to Printing in Python](https://www.datacamp.com/community/tutorials/python-print-function)
 
